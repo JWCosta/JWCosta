@@ -1,7 +1,7 @@
 ### Hi there 👋
- Recém formado em Ciência da Computação, durante minha graduação tive contato com diversas tecnologias e linguagens de programação, mas o grande interesse é pela área de desenvolvimento web. Possuo conhecimentos relacionados ao front-end, usando HTML, CSS e javascript. Busco aprofundar os conhecimentos que já tenho e conquistar uma oportunidade como desenvolvedor front-end, enquanto isso também estou participando de bootcamps, para me tornar um Desenvolvedor Full Stack.
+ Sou formado em Ciência da Computação, durante minha graduação tive contato com diversas tecnologias e linguagens de programação, mas o grande interesse é pela área de desenvolvimento web. Possuo conhecimentos relacionados ao front-end, usando HTML, CSS e javascript. Busco aprofundar os conhecimentos que já tenho e conquistar uma oportunidade como desenvolvedor front-end, enquanto isso também estou participando de bootcamps, para me tornar um Desenvolvedor Full Stack. ✅💻🚀
 
-Recentemente fui escolhido como embaixador do meu estado na Maratona Behind The Code. O programa de embaixadores é uma iniciativa da Shawee juntamente com a IBM, onde foram escolhidos dois representantes de cada estado, visando dar maior visibilidade e abrangência da maratona em todo o nosso país, mostrando que a Behind The Code é para todos.
+Recentemente fui escolhido como embaixador do meu estado na Maratona Behind The Code. O programa de embaixadores é uma iniciativa da Shawee juntamente com a IBM, onde foram escolhidos dois representantes de cada estado, visando dar maior visibilidade e abrangência da maratona em todo o nosso país, mostrando que a Behind The Code é para todos. 👏🤩
 <!--
 **JWCosta/JWCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
