@@ -9,7 +9,7 @@ https://maratona.dev/pt?ref=fc5b7219-6088-4eac-9fce-4536f942dd07&register=true
 Saiba mais sobre o programa de embaixadores:
 https://embaixadoresbehindthecode.shawee.io/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcusungarette)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JWCosta/JWCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
