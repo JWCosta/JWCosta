@@ -1,14 +1,5 @@
 ### Hi there 👋
- Sou formado em Ciência da Computação, durante minha graduação tive contato com diversas tecnologias e linguagens de programação, mas o grande interesse é pela área de desenvolvimento web. Possuo conhecimentos relacionados ao front-end, usando HTML, CSS e javascript, atualmente trabalho como desenvolvedor front-end júnior, enquanto isso também estou participando de bootcamps, para me tornar um Desenvolvedor Full Stack. ✅💻🚀
-
-Recentemente fui escolhido como embaixador do meu estado na Maratona Behind The Code. O programa de embaixadores é uma iniciativa da Shawee juntamente com a IBM, onde foram escolhidos dois representantes de cada estado, visando dar maior visibilidade e abrangência da maratona em todo o nosso país, mostrando que a Behind The Code é para todos. 👏🤩
-
-Se inscreva na Behind The Code:
-https://maratona.dev/pt?ref=fc5b7219-6088-4eac-9fce-4536f942dd07&register=true
-
-Saiba mais sobre o programa de embaixadores:
-https://embaixadoresbehindthecode.shawee.io/
-
+ Sou formado em Ciência da Computação, durante minha graduação tive contato com diversas tecnologias e linguagens de programação, mas o grande interesse é pela área de desenvolvimento web. Possuo conhecimentos relacionados ao front-end, usando HTML, CSS e javascript, atualmente trabalho como desenvolvedor front-end júnior, busco aprimorar meus conhecimentos e me especializar no desenvolvimento web front-end. ✅💻🚀
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
