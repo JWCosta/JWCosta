@@ -3,10 +3,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1>
 <img alt="JWCosta" src="https://github-readme-stats.codestackr.vercel.app/api?username=JWCosta&show_icons=true&hide_border=true&theme=dark" />
-</h1>
 <!--
 **JWCosta/JWCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
