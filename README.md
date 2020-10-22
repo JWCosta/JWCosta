@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
 <h1 align="center">
 <img alt="JWCosta" src="https://github-readme-stats.codestackr.vercel.app/api?username=JWCosta&show_icons=true&hide_border=true&theme=dark" />
 </h1>
