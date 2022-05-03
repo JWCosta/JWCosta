@@ -1,9 +1,8 @@
 ### Hi there 👋
 Sou formado em Ciência da Computação, durante minha graduação tive contato com diversas tecnologias e linguagens de programação, mas o grande interesse é pela área de desenvolvimento web. Possuo conhecimentos relacionados ao front-end, usando HTML, CSS, javascript e tenho experiência com React js, atualmente trabalho como desenvolvedor júnior, busco aprimorar meus conhecimentos e me especializar no desenvolvimento web. 💻🚀
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin-left: 10px; width: 500px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="JWCosta" src="https://github-readme-stats.codestackr.vercel.app/api?username=JWCosta&show_icons=true&hide_border=true&theme=dark" />
 </div>
 <!--
