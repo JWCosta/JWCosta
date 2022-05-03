@@ -4,7 +4,7 @@ Sou formado em Ciência da Computação, durante minha graduação tive contato 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 <div style="margin-left: 10px; width: 500px">
-<!--<img alt="JWCosta" src="https://github-readme-stats.codestackr.vercel.app/api?username=JWCosta&show_icons=true&hide_border=true&theme=dark" />-->
+<img alt="JWCosta" src="https://github-readme-stats.codestackr.vercel.app/api?username=JWCosta&show_icons=true&hide_border=true&theme=dark" />
 </div>
 <!--
 **JWCosta/JWCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
