@@ -1,5 +1,5 @@
 ### Hi there 👋
-Profissional do ramo de Desenvolvimento de software com aproximadamente 3 anos de experiência.
+Profissional do ramo de Desenvolvimento de software com 3 anos de experiência.
 
 Possuo experiência atrelada ao desenvolvimento Frontend usando a linguagem Javascript, utilizando o React Js como framework na execução das atividades, trabalhando com a responsividade de aplicações, estilização com CSS, versionamento de código (git flow) gerenciamento de estados com Redux Js.
 Possuo experiência atuando como líder técnico na área de Commerce utilizando o Oracle Commerce Cloud, sendo responsável por auxiliar na parte técnica das tecnologias utilizada, comunicação com o cliente, fluxo de deploys e code Review. Atualmente estou atuando dentro do ecossistema Twilio, fazendo o desenvolvimento de novos plugins e evoluindo os já existentes.
