@@ -1,10 +1,11 @@
 ### Hi there 👋
-Profissional do ramo de Desenvolvimento de software com 3 anos de experiência.
+Profissional apaixonado pelo universo do Desenvolvimento de Software, com sólida experiência de 3 anos no setor.
 
-Possuo experiência atrelada ao desenvolvimento Frontend usando a linguagem Javascript, utilizando o React Js como framework na execução das atividades, trabalhando com a responsividade de aplicações, estilização com CSS, versionamento de código (git flow) gerenciamento de estados com Redux Js.
-Possuo experiência atuando como líder técnico na área de Commerce utilizando o Oracle Commerce Cloud, sendo responsável por auxiliar na parte técnica das tecnologias utilizada, comunicação com o cliente, fluxo de deploys e code Review. Recentemente atuei dentro do ecossistema Twilio, fazendo o desenvolvimento de novos plugins e evoluindo os já existentes.
+Especializado em Frontend, destaco minha expertise em Javascript, com ênfase na implementação eficiente de projetos utilizando o poderoso framework React Js. Ao longo da minha trajetória, dediquei-me à criação de interfaces responsivas, aplicando técnicas avançadas de estilização com CSS, e garantindo a excelência no versionamento de código por meio do git flow. No domínio do gerenciamento de estados, destaco minha proficiência na aplicação do Redux Js.
 
-Estou buscando aprofundar ainda mais os conhecimentos que tenho nas minhas áreas de atuação, busco ampliar meus conhecimentos em outras áreas também, almejando o crescimento profissional e técnico. 💻🚀
+Além disso, assumi o papel de líder técnico na área de Commerce, onde liderei equipes no desenvolvimento de soluções utilizando o Oracle Commerce Cloud. Minhas responsabilidades incluíam a orientação técnica, comunicação eficaz com os clientes, coordenação de fluxos de deploys e realização de code reviews criteriosos. Recentemente, explorei o ecossistema Twilio, contribuindo para o desenvolvimento de novos plugins e aprimorando os já existentes.
+
+Estou em busca de oportunidades que me permitam aprofundar ainda mais meus conhecimentos nas áreas em que atuo, ao mesmo tempo em que almejo expandir minha expertise para novos horizontes. Comprometido com o constante aprimoramento profissional e técnico, estou aberto a desafios que impulsionem meu crescimento. Convido você a explorar meu perfil do [LinkedIn](https://www.linkedin.com/in/jonathan-ws-costa/) para obter mais insights sobre minha jornada e conquistas.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWCosta)](https://github.com/anuraghazra/github-readme-stats)
 <!--<div style="margin-left: 10px; width: 500px">
